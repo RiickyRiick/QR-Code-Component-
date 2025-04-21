@@ -46,7 +46,7 @@ The learning curve:
 - The font-size on the paragrpah of 15px; I added 40px because 15px was to small
 - added way more than what I needed within the .card container
 
-I ended looking at the Mr Coder's code example that was a part of his Day 11 challenge. You can check it out here: (https://www.youtube.com/watch?v=5BBYPntB-GY&list=PLcZZlEf3w738Bv45a8yI_iIv2OGx_JLvz&index=12) 
+I ended looking at the <a href="https://www.youtube.com/watch?v=5BBYPntB-GY&list=PLcZZlEf3w738Bv45a8yI_iIv2OGx_JLvz&index=12" target="_blank">Mr Coder's code example</a> that was a part of his Day 11 challenge. 
 
 After reviewing his code, I realzied that the solution to my problem was easier then I expected: 
 
