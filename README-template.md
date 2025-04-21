@@ -6,19 +6,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+I first started off with the HTML making sure I got all my containers in placed, then moved onto the CSS and placing everything within the center of the viewport, and added all the background-colors in order for me to have a better view of the 'White Card Container' in center and for better sizing. I tried to approach it from my own understading at first, and input as much as I could in order for me to really get into the notion of figuring it out by myself, instead of always following or looking at hints. 
 ### Screenshot
 
 <img src="./Mobile Design .png"/>
@@ -32,12 +30,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
-### Links
-
 ## My process
-
-Overview:
-I first started off with the HTML making sure I got all my containers in placed, then moved onto the CSS and placing everything within the center of the viewport, and added all the background-colors in order for me to have a better view of the 'White Card Container' in center and for better sizing. I tried to approach it from my own understading at first, and input as much as I could in order for me to really get into the notion of figuring it out by myself, instead of always following or looking at hints. 
 
 HTML: This part of the code was very easy and simple addition of classes in order to group for better positioning and sizing. Started with a flex-container, then card class, and finally a text class (more on this in the 'What I learned' section). 
 
@@ -92,9 +85,6 @@ It was unecessary because the flow of the content was already flowing like a a c
 ### Continued development
 
 I'm going to continue working on the padding, margin, and understanding the flow of the content. Although these are very east concepts to understand, while coding, sometimes I overthing the process and forget the flow of the tags. I will aslo focus on keeping my code clear and simple and making sure it makes sense in order to repeat code and not put code that isn't necessary. 
-
-### Useful resources
-
 
 
 ## Author
