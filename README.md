@@ -22,6 +22,11 @@ I first started off with the HTML making sure I got all my containers in placed,
 <img src="./Mobile Design .png"/>
 <img src="./Desktop Design.png"/>
 
+
+##Links
+
+- Live site URL: https://riickyriick.github.io/QR-Code-Component/
+
 ## My process
 
 HTML: This part of the code was very easy and simple addition of classes in order to group for better positioning and sizing. Started with a flex-container, then card class, and finally a text class (more on this in the 'What I learned' section). 
