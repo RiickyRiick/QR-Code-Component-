@@ -25,7 +25,7 @@ I first started off with the HTML making sure I got all my containers in placed,
 
 ##Links
 
-- Live site URL: https://riickyriick.github.io/QR-Code-Component/
+- Live site URL: https://riickyriick.github.io/QR-Code-Component-/
 
 ## My process
 
